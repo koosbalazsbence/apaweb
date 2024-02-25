@@ -1,0 +1,8 @@
+domain: www.kooslaser.hu
+CSS legyenek visszafogott színek
+Főoldal - Háttér pl.: lézer
+- Navigációs bár: Főoldal, Lézershow, hangosítás, Elérhetőség
+- Főoldal = Bemutatkozás - galéria, kedvcsináló;
+- Lézershow = Eszközök, berendezések, előző előadások
+- Hangosítás = Eszközök, berendezések szolgáltatások
+- Elérhetőség

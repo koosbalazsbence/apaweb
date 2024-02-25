@@ -1,0 +1,6 @@
+# KoosLaser
+## Koós Péter weboldala
+__*Amit vállalok:*__
+- **Hangosítás**
+- **Lézershow**
+### Weboldalam megtalálható az alábbi [linken](https://koosbalazsbence.github.io/kooslaser/).
